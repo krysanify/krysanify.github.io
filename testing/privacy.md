@@ -1,4 +1,9 @@
-Service Pack 1.0.8
+#Privacy Policy
 
-READ_PHONE_STATE to get deviceId
-GET_ACCOUNTS to get backend's account
+This is privacy policy for unreleased testing app of Merry Music, Sports Fit, and Service Pack.
+
+## READ_PHONE_STATE
+Get deviceId.
+
+## GET_ACCOUNTS
+Get backend's account.
